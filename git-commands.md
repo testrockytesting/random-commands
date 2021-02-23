@@ -1,7 +1,7 @@
    git clone git@github.com:testrockytesting/random-commands.git
-   nano README.md
-   git add README.md
-   git commit -m "Updated the README"
-   git status 
-   git push origin master 
-   git push
+  /n nano README.md
+  /n  git add README.md
+  /n  git commit -m "Updated the README"
+  /n  git status 
+  /n  git push origin master 
+  /n  git push
